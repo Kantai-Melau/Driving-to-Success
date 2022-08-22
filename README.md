@@ -24,9 +24,7 @@ a) Accessed the page using BeautifulSoup and got the HTML in a JSON format.
 b) Scraped the results and stored the infomation in lists that contained the details that were requiured. These were stored in lists.
 c) From the lists, the data was input and stored in a dataframe.
 d) The dataframe was ready to be transformed into the postgreSQL Database
-!--Disclaimer
-We tried scraping through the next set of pages to get more information on the cars but we seemingly could not bypass the cookies section.
-The cookies restricted access to the next page and we were unable to go through this.
+
 
 
 # Connection to Local Database
